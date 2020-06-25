@@ -1,0 +1,6 @@
+simple_nick1: test1
+simple_nick1: test2
+simple_nick1: test3
+simple_nick1: test4
+simple_nick1: test5
+simple_nick1: test6

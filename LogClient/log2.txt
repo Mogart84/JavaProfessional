@@ -1,0 +1,2 @@
+simple_nick1: test1
+simple_nick1: test2
